@@ -1,3 +1,4 @@
 # datasciencecoursera
 Repository for Coursera 1st Course Project
-https://github.com/Emira222/datasharing/blob/master/README.md
+
+[link to forked repository from JTLEEK](https://github.com/Emira222/datasharing/blob/master/README.md)
